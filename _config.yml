@@ -84,5 +84,3 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-slate
-remote_name: jekyll-theme-slate
