@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Community Science, Education, and Stewardship: Equitable and inclusive hands-on student research essential to the management of the Rio Grande ecosystem.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+UNM students train as interns with the Bosque Ecosystem Monitoring Program to mentor K-12 students and teachers in Community Science, Education, and Stewardship on the Rio Grande. 
