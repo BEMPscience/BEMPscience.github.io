@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First day of class 
+title: "First day of class" 
 ---
 
 First Class Session: 4-6 pm Rm. 53 Castetter Hall
